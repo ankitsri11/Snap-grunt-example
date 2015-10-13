@@ -1,3 +1,3 @@
 # Snap-grunt-example
 
-Sample file : will add content later.
+Sample grunt project to check the working of `grunt` command with Snap
